@@ -161,3 +161,30 @@ top: 4px;
   line-height: 50px;
   text-align: center;
 }
+
+/* footer */
+
+.description-tittle{
+  margin-top: 59px;
+  font-size: 32px;
+  font-weight: 4000;
+  line-height: 60px;
+  text-align: center;
+}
+
+.product-description {
+  margin-top: 36px;
+  margin-left: 463px;
+  margin-right: 462px;
+  margin-bottom: 163px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 41px;
+  text-align: center;
+}
+
+.description-link {
+  text-decoration-line: underline;
+  color: #BB8B5D;
+  font-weight: 500;
+}
